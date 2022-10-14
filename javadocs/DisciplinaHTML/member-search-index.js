@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"lab2","c":"Disciplina","l":"aprovado()"},{"p":"lab2","c":"Disciplina","l":"cadastraHoras(int)"},{"p":"lab2","c":"Disciplina","l":"cadastraNota(int, double)","u":"cadastraNota(int,double)"},{"p":"lab2","c":"Disciplina","l":"Disciplina(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"lab2","c":"Disciplina","l":"toString()"}];updateSearchResults();
