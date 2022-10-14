@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lab2","c":"Descanso","l":"defineHorasDescanso(int)"},{"p":"lab2","c":"Descanso","l":"defineNumeroSemanas(int)"},{"p":"lab2","c":"Descanso","l":"Descanso()","u":"%3Cinit%3E()"},{"p":"lab2","c":"Descanso","l":"getStatusGeral()"}];updateSearchResults();
